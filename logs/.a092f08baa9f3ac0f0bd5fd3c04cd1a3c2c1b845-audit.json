@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/intern16/Desktop/NodeSequelize/nodejs-backend-architecture-typescript (1)/nodejs-backend-architecture-typescript/logs/.a092f08baa9f3ac0f0bd5fd3c04cd1a3c2c1b845-audit.json",
+    "files": [
+        {
+            "date": 1653470294781,
+            "name": "/home/intern16/Desktop/NodeSequelize/nodejs-backend-architecture-typescript (1)/nodejs-backend-architecture-typescript/logs/2022-05-25.log",
+            "hash": "74c9bd86ecf0fcf60fcc5b16c6b1ab2f"
+        },
+        {
+            "date": 1653623755345,
+            "name": "/home/intern16/Desktop/NodeSequelize/nodejs-backend-architecture-typescript (1)/nodejs-backend-architecture-typescript/logs/2022-05-27.log",
+            "hash": "6710f03ac2daaf7b8d6a9c4cef0bf29d"
+        },
+        {
+            "date": 1654057978465,
+            "name": "/home/intern16/Desktop/NodeSequelize/nodejs-backend-architecture-typescript (1)/nodejs-backend-architecture-typescript/logs/2022-06-01.log",
+            "hash": "3d102fdaeca53cc408d8318e07b80275"
+        }
+    ],
+    "hashType": "md5"
+}

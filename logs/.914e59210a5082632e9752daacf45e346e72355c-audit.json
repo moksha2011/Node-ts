@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/intern18/Downloads/codethings/newProject/nodejs-backend-architecture-typescript/logs/.914e59210a5082632e9752daacf45e346e72355c-audit.json",
+    "files": [
+        {
+            "date": 1653038195433,
+            "name": "/home/intern18/Downloads/codethings/newProject/nodejs-backend-architecture-typescript/logs/2022-05-20.log",
+            "hash": "8d6297c789d7f5eb3543b5c62cb8abc6"
+        }
+    ]
+}

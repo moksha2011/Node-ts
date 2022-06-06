@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/intern4/Videos/nodejs-backend-architecture-typescript_1/nodejs-backend-architecture-typescript/logs/.ba466ad39b64214371cdf3776198cc3d93d9077d-audit.json",
+    "files": [
+        {
+            "date": 1654496732463,
+            "name": "/home/intern4/Videos/nodejs-backend-architecture-typescript_1/nodejs-backend-architecture-typescript/logs/2022-06-06.log",
+            "hash": "b8bde78cd34e99ef2368812f88127893"
+        }
+    ],
+    "hashType": "md5"
+}

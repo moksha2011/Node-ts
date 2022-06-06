@@ -1,0 +1,6 @@
+{"message":"error","level":"error"}
+{"message":"warn","level":"warn"}
+{"message":"info","level":"info"}
+{"message":"verbose","level":"verbose"}
+{"message":"debug","level":"debug"}
+{"message":"info","message":"app is running in mode: "}

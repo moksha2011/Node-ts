@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/intern18/Downloads/codethings/newProject/nodejs-backend-architecture-typescript/logs/.9ca95ba4fd51de8302f77b9937457e9415f093cd-audit.json",
+    "files": [
+        {
+            "date": 1653044474494,
+            "name": "/home/intern18/Downloads/codethings/newProject/nodejs-backend-architecture-typescript/logs/2022-05-20.log",
+            "hash": "3700fbb353d3b7102c8c22993625a7e0"
+        },
+        {
+            "date": 1653279661530,
+            "name": "/home/intern18/Downloads/codethings/newProject/nodejs-backend-architecture-typescript/logs/2022-05-23.log",
+            "hash": "1f6b399659df03a6950147a6e4ff3cfb"
+        },
+        {
+            "date": 1653367392122,
+            "name": "/home/intern18/Downloads/codethings/newProject/nodejs-backend-architecture-typescript/logs/2022-05-24.log",
+            "hash": "d6035bb282f38796ff376345c8ab5b49"
+        },
+        {
+            "date": 1653456506540,
+            "name": "/home/intern18/Downloads/codethings/newProject/nodejs-backend-architecture-typescript/logs/2022-05-25.log",
+            "hash": "040a0bc32986bc8f9cc6551670548b07"
+        }
+    ],
+    "hashType": "md5"
+}

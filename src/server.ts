@@ -2,7 +2,7 @@ import express from 'express';
 import Logger from './lib/Logger';
 
 const app = express();
-const PORT = 3000;
+const PORT = 30301;
 
 app.get('/logger', (_, res) => {
   Logger.error('This is an error log');
